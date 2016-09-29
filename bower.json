@@ -1,0 +1,14 @@
+{
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {},
+  "name": "sails-angular2-setup",
+  "version": "0.0.0",
+  "author": "anonymous node/sails user",
+  "private": true
+}
